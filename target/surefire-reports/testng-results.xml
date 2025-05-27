@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-27T11:33:38 IST" name="Suite" finished-at="2025-05-27T11:34:15 IST" duration-ms="36931">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T11:33:38 IST" name="Test" finished-at="2025-05-27T11:34:15 IST" duration-ms="36931">
+      <class name="testScenarios.DynamicHand">
+        <test-method signature="DynHand()[pri:0, instance:testScenarios.DynamicHand@7714e963]" started-at="2025-05-27T11:33:55 IST" name="DynHand" finished-at="2025-05-27T11:34:03 IST" duration-ms="8050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DynHand -->
+      </class> <!-- testScenarios.DynamicHand -->
+      <class name="testScenarios.SwitchingWindows">
+        <test-method signature="switchWin()[pri:0, instance:testScenarios.SwitchingWindows@2f7298b]" started-at="2025-05-27T11:33:38 IST" name="switchWin" finished-at="2025-05-27T11:33:48 IST" duration-ms="9932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWin -->
+      </class> <!-- testScenarios.SwitchingWindows -->
+      <class name="testScenarios.MouseHover">
+        <test-method signature="DragAndDrop()[pri:0, instance:testScenarios.MouseHover@1dde4cb2]" started-at="2025-05-27T11:33:48 IST" name="DragAndDrop" finished-at="2025-05-27T11:33:55 IST" duration-ms="7133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragAndDrop -->
+      </class> <!-- testScenarios.MouseHover -->
+      <class name="testScenarios.DatePicker">
+        <test-method signature="selDate()[pri:0, instance:testScenarios.DatePicker@20ce78ec]" started-at="2025-05-27T11:34:03 IST" name="selDate" finished-at="2025-05-27T11:34:15 IST" duration-ms="11729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selDate -->
+      </class> <!-- testScenarios.DatePicker -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

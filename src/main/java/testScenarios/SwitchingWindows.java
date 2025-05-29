@@ -28,6 +28,7 @@ public void switchWin()
 	{
 		win1=itr.next();
 		win2=itr.next();
+		System.out.println("Testing...");
 	}
 	
 	System.out.println(win1);
